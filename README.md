@@ -28,9 +28,8 @@ This extension was especially well received during the project presentation, as 
 ## How to Run
 
 1. Clone the repository
-2. Install the required dependencies
-3. Run the server
-4. Run the client
+2. Install the required dependencies. make sure "hashlib" & "secrets" libraries are installed
+3. Run secure_payment_main.py
 5. Follow the demo flow for authentication, encryption, verification, and decryption
 
 ## Authentication Concept
