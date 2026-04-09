@@ -1,0 +1,17 @@
+{
+  "alice": {
+    "N": 64,
+    "merkle_root_hex": "20157018719a8d8cd6e310b7f87520d38da7bf285cf50cc84f3600f9c9d7cfe3",
+    "used_indices": []
+  },
+  "bob": {
+    "N": 64,
+    "merkle_root_hex": "4061d217e2027e2710a3ea91497fcc700610541f3b7091f157fc9135e98979ca",
+    "used_indices": []
+  },
+  "charlie": {
+    "N": 64,
+    "merkle_root_hex": "32de8103d8794982a35eb9a2c22083877690e0f29b2b464149b51d20bed3a9b4",
+    "used_indices": []
+  }
+}

@@ -1,0 +1,13 @@
+transaction_id: {tran_id}
+timestamp: {current_time}
+amount: {price}
+currency: NIS
+merchant_id: MER-102030
+merchant_name: Computers & Phones LTD
+payment_token: {token}
+card_network: {card}
+card_last4: {digits}
+card_expiration: {exp_date}
+customer_id: {cust}
+customer_country: IL
+session_id: {sess_id}
