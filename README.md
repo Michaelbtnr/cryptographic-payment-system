@@ -16,7 +16,7 @@ The system uses a hybrid cryptographic design:
 The goal of the project is to demonstrate how different cryptographic mechanisms can be combined to provide confidentiality, integrity, authenticity, and key protection in a payment-related scenario.
 
 While the required part of the project focused on the core cryptographic algorithms, the Merkle Tree mechanism was integrated as an additional enhancement beyond the requirements.
-This extension was especially well received during the project presentation, as it reflected a level of design initiative and cryptographic depth.
+This extension was especially well received during the project presentation, as it creates an additional cryptographic depth.
 
 ## Repository Structure
 - `ecc/` – eliptic curve EL-Gamal implemantation
