@@ -11,7 +11,7 @@ The system uses a hybrid cryptographic design:
 - **Lamport One-Time Signatures (OTS)** for digital signatures
 - **Merkle Tree** for scalable authentication over multiple Lamport key pairs
 
-# The algorithms were not implemented from scratch in this project. Instead, the project integrates and builds upon existing reference implementations from publicly available GitHub repositories.
+**The algorithms were not implemented from scratch in this project. Instead, the project integrates and builds upon existing reference implementations from publicly available GitHub repositories.**
 
 The goal of the project is to demonstrate how different cryptographic mechanisms can be combined to provide confidentiality, integrity, authenticity, and key protection in a payment-related scenario.
 
